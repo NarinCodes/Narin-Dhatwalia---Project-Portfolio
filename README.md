@@ -1,4 +1,4 @@
-# Narin's Portfolio
+# Narin_Portfolio
 Example DS portfolio
 
 # Project 1 - Soccer Player Comparison Tool
