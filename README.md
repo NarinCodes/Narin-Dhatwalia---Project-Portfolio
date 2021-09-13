@@ -3,9 +3,9 @@ This tool allows users to compare the stats of different soccer players. The cod
 
 ![](/images/soccer.png)
 
-&nbsp
+&nbsp;
 
-&nbsp
+&nbsp;
 
 
 
