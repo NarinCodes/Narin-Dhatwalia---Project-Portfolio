@@ -1,7 +1,7 @@
 # [Project 1 - Generative AI Infinite Shakespeare using Transformers (Neural Style Transfer)](https://github.com/NarinCodes/NanoGPT)
 A generative AI project that leverages Transformer-architecture to build and train a Language Model. The model is trained on all the combined works of William Shakespeare. Running the main Python script will kick-off a generative process that produces infinite Shakespeare — in other words, it is capable of producing a stream of text that closely resembles the scripts of Shakespeare's plays. Under the hood, this project uses PyTorch to construct blocks comprising of MultiHead-Attention and FeedForward layers. In addition, the code also implements new ideas from the highly influential "[Attention is all you need]([url](https://arxiv.org/abs/1706.03762))" paper — such as Skip Connections, Layer Normalization, and use of Triangular Matrices to calculate token-level affinities.
 
-![](/images/Vs75m.jpeg)
+![](/images/AI_Shakespeare.jpeg)
 
 &nbsp;
 
